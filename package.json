@@ -1,9 +1,9 @@
 {
   "name": "typescript",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "ts-node" : "ts-node"
+    "ts-node" : "ts-node index.ts"
   },
   "repository": {
     "type": "git",
